@@ -2,6 +2,11 @@
 
 Guidance for Claude Code when working in the **Proxa** repository.
 
+@CLAUDE.local.md
+
+> **Git commits:** never add `Co-Authored-By:` or any AI attribution; keep commit messages
+> straightforward and simple (concise one-line subject). See `CLAUDE.local.md`.
+
 ## What this is — and how to work in it
 
 **Proxa** (from *proximity*) is a **learning project**: a modern, Kotlin/Compose rebuild of the ideas
